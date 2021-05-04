@@ -10,4 +10,13 @@
 - Portal builded for WYA in Croatia https://mimladi.hr/
 - Webpage for Small Business Owner, builded with Digitial Agency Branche http://brojevi.hr/ 
 
+**Enterprise projects**
+- Asset Management App https://www.zicer.hr/Katalog-rjesenja/KAM-aplikacija (**Under NDA**)
+- Yard and Dock Management System https://www.zicer.hr/Katalog-rjesenja/Yard-and-Dock-Management-System (I have just tiny fraction to work on in this one, also **Under NDA**)
+
+**Crypto Projects** .... I'm trying to find time for this part of my portfolio ...🤔
+- Crosschain Assets Monitoring _TBA_
+- yield.credit alerting dApp for loans/offers/etc _TBA_    
+- ...
+
 _P.S. Forgive me for my poor GitHub profile, I'll do my best to show all my work asap 💻_
