@@ -8,6 +8,6 @@
 
 Forgive me for my poor GitHub profile, I'll do my best to show all my work asap 💻
 
-**Wordpress Sites** that are up and running (yeeep there is a lot of these that doesn't runing anymore)
+**Wordpress projects** that are up and running (yeeep there is a lot of these that doesn't runing anymore)
 - Portal builded for WYA in Croatia https://mimladi.hr/
 - Webpage for Small Business Owner, builded with Digitial Agency Branche http://brojevi.hr/ 
