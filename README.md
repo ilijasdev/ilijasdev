@@ -12,7 +12,7 @@
 
 **Enterprise projects**
 - Asset Management App https://www.zicer.hr/Katalog-rjesenja/KAM-aplikacija (**Under NDA**)
-- Yard and Dock Management System https://www.zicer.hr/Katalog-rjesenja/Yard-and-Dock-Management-System (I have just tiny fraction to work on in this one, also **Under NDA**)
+- Yard and Dock Management System https://www.zicer.hr/Katalog-rjesenja/Yard-and-Dock-Management-System (My work in this one is a tiny fraction of whole system, tiny but important 😏 ... also **Under NDA**)
 
 **Crypto Projects** .... I'm trying to find time for this part of my portfolio ...🤔
 - Crosschain Assets Monitoring _TBA_
