@@ -7,7 +7,7 @@
 - 📫 Feel free to contact me at Twitter or Email
 
 **Wordpress projects** that are up and running (yeeep there is a lot of these that doesn't runing anymore)
-- Portal builded for WYA in Croatia https://mimladi.hr/
+- Portal builded for WYA (NGO) in Croatia https://mimladi.hr/
 - Webpage for Small Business Owner, builded with Digitial Agency Branche http://brojevi.hr/ 
 
 **Enterprise projects**
