@@ -5,7 +5,7 @@
 - 🌱 and currently learning everything that I'm interested in 
 - 💞️ I’m looking to connect with those who are on mission to make web more decentralised
 - 📫 Feel free to contact me at Twitter or Email
-- 📺 ...and if you like to take a look at my [stackoverflow](https://stackoverflow.com/users/9914347/ilija-ilicic)
+- 📺 ...and if you like to take a look at my [stackoverflow](https://stackoverflow.com/users/9914347/ilija-ilicic) profile
 
 **Wordpress projects** that are up and running (yeeep there is a lot of these that doesn't runing anymore)
 - Portal builded for WYA (NGO) in Croatia https://mimladi.hr/
