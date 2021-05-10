@@ -7,7 +7,7 @@
 - 📫 Feel free to contact me at Twitter or Email
 - 📺 ...and if you like to take a look at my [stackoverflow](https://stackoverflow.com/users/9914347/ilija-ilicic) profile
 
-**Wordpress projects** that are up and running (yeeep there is a lot of these that doesn't running anymore)
+**Wordpress projects** that are up and running (yeeep there is a lot of these that are dead now :skull:)
 - Portal builded for WYA (NGO) in Croatia https://mimladi.hr/
 - Webpage for Small Business Owner, builded with Digitial Agency Branche http://brojevi.hr/ 
 
