@@ -31,4 +31,4 @@ in collaboration with [Know IT](https://knowit.hr/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilijasdev&layout=compact%20notebook)
 
 ##
-_P.S. My fancy signature in svg [here](http://in-development.live/fancy-signature/), it's so cool that I have to put it here ✒️_
+_P.S. My fancy signature in svg, it's so cool that I have to put it [here](http://in-development.live/fancy-signature/) ✒️_
