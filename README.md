@@ -23,9 +23,7 @@ in collaboration with [Know IT](https://knowit.hr/)
 - yield.credit alerting dApp for loans/offers/etc _TBA_    
 - ...
 
-_P.S. Forgive me for my poor GitHub profile, I'll do my best to show all my work asap 💻_
-
-_P.S.S. My fancy signature in svg [here](http://in-development.live/fancy-signature/), it's so cool that I have to put it here ✒️_
-
 ## _Mastering skills_
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3)
+
+_P.S. My fancy signature in svg [here](http://in-development.live/fancy-signature/), it's so cool that I have to put it here ✒️_
