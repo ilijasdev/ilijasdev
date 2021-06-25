@@ -19,7 +19,7 @@ in collaboration with [Know IT](https://knowit.hr/)
 
 ## Crypto Projects
 .... I'm trying to find time for this part of my portfolio ...🤔
-- Crosschain Assets Monitoring _TBA_
+- Crosschain Assets Monitoring _In progress, check CCBT repo_
 - yield.credit alerting dApp for loans/offers/etc _TBA_    
 - ...
 
