@@ -7,15 +7,15 @@
 - 📫 Feel free to contact me at Twitter or Email
 - 📺 ...and if you like to take a look at my [stackoverflow](https://stackoverflow.com/users/9914347/ilija-ilicic) profile
 
-## Wordpress projects 
-up and running (yeeep there is a lot of these that are dead now :skull:)
-- Portal builded for WYA (NGO) in Croatia https://mimladi.hr/
-- Webpage for Small Business Owner, builded with Digitial Agency Branche http://brojevi.hr/ 
-
 ## Enterprise projects
 in collaboration with [Know IT](https://knowit.hr/)
 - Asset Management App https://www.zicer.hr/Katalog-rjesenja/KAM-aplikacija (**Under NDA**)
 - Yard and Dock Management System https://www.zicer.hr/Katalog-rjesenja/Yard-and-Dock-Management-System (My work in this one is a tiny fraction of whole system, tiny but important 😏 ... also **Under NDA**)
+
+## Wordpress projects 
+up and running (yeeep there is a lot of these that are dead now :skull:)
+- Portal builded for WYA (NGO) in Croatia https://mimladi.hr/
+- Webpage for Small Business Owner, builded with Digitial Agency Branche http://brojevi.hr/ 
 
 ## Crypto Projects
 .... I'm trying to find time for this part of my portfolio ...🤔
