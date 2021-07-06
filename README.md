@@ -10,7 +10,7 @@
 ## Enterprise projects
 in collaboration with [Know IT](https://knowit.hr/)
 - Asset Management App https://www.zicer.hr/Katalog-rjesenja/KAM-aplikacija (**Under NDA**)
-- Sensors App - Web app for monitoring all refrigeration devices in retail stores of the company (**Under NDA**)
+- Sensors App - Web app for monitoring all refrigeration devices in retail stores of the company - Design publicly available at [Figma](https://www.figma.com/proto/nTEi5uz3XAa0pYeceBXpEI/Redesign-of-Sensors-App?node-id=52%3A144&scaling=min-zoom) (**Under NDA**)
 - Yard and Dock Management System https://www.zicer.hr/Katalog-rjesenja/Yard-and-Dock-Management-System (My work in this one is a tiny fraction of whole system, tiny but important 😏 ... also **Under NDA**)
 
 ## Wordpress projects 
