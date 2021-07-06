@@ -20,7 +20,7 @@ up and running (yeeep there is a lot of these that are dead now :skull:)
 
 ## Crypto Projects
 .... I'm trying to find time for this part of my portfolio ...🤔
-- Crosschain Assets Monitoring _In progress, check CCBT repo_
+- Crosschain Assets Monitoring _In progress, check [CCBT repo](https://github.com/ilijasdev/CCBT)_
 - yield.credit alerting dApp for loans/offers/etc _TBA_    
 - ...
 
