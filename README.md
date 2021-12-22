@@ -27,7 +27,5 @@ up and running (yeeep there is a lot of these that are dead now :skull:)
 ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilijasdev)
-
 ##
 _P.S. My fancy signature in svg, it's so cool that I have to put it [here](http://in-development.live/fancy-signature/) ✒️_
