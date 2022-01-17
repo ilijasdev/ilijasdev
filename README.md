@@ -9,8 +9,8 @@
 in collaboration with [Know IT](https://knowit.hr/)
 - Asset Management App https://www.zicer.hr/Katalog-rjesenja/KAM-aplikacija (**Under NDA**)
 - Sensors App - Web app for monitoring all refrigeration devices in retail stores of the company - Design publicly available at [Figma](https://www.figma.com/proto/nTEi5uz3XAa0pYeceBXpEI/Redesign-of-Sensors-App?node-id=25%3A0&scaling=min-zoom) (**Under NDA**)
-- Yard and Dock Management System https://www.zicer.hr/Katalog-rjesenja/Yard-and-Dock-Management-System (My work in this one is a tiny fraction of whole system, tiny but important 😏 ... also **Under NDA**)
 - Distributed Order Management System ... (...as the name of project said, system for managing orders from external system ... not that complicated ... also **Under NDA**)
+- Automatic catalogs creation with Adobe InDesign ExtendScript (...if any Adobe engineer is reading this please upgrade to the latest ECMAScript standard... please)
 
 ## Wordpress projects 
 up and running (yeeep there is a lot of these that are dead now :skull:)
