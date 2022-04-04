@@ -5,6 +5,10 @@
 - 📫 Feel free to contact me at Twitter or Email
 - 📺 ...and if you like to take a look at my [stackoverflow](https://stackoverflow.com/users/9914347/ilija-ilicic) profile
 
+## Crypto Projects
+- Dashboard for DeFi protocol Kanpeki.finance - available at https://www.kanpeki.network/
+- Crosschain Assets Monitoring _In progress, check [CCBT repo](https://github.com/ilijasdev/CCBT)_
+
 ## Enterprise projects
 in collaboration with [Know IT](https://knowit.hr/)
 - Asset Management App https://www.zicer.hr/Katalog-rjesenja/KAM-aplikacija (**Under NDA**)
@@ -16,12 +20,6 @@ in collaboration with [Know IT](https://knowit.hr/)
 up and running (yeeep there is a lot of these that are dead now :skull:)
 - Portal builded for WYA (NGO) in Croatia https://mimladi.hr/
 - Webpage for Small Business Owner, builded with Digitial Agency Branche http://brojevi.hr/ 
-
-## Crypto Projects
-.... I'm trying to find time for this part of my portfolio ...🤔
-- Crosschain Assets Monitoring _In progress, check [CCBT repo](https://github.com/ilijasdev/CCBT)_
-- yield.credit alerting dApp for loans/offers/etc _TBA_    
-- ...
 
 ## Mastering skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat&logo=solidity) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) 
