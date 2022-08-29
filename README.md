@@ -1,11 +1,12 @@
 # Hello there!
 
-- 👋 I’m @ilijasdev, Web2 developer
-- 👀 I’m interested in Web3 and DeFi protocols
+- 👋 I’m @ilijasdev, Web2/Web3 developer
+- 👀 I’m interested in Web3, DeFi protocols and Data Analytics Tools
 - 📫 Feel free to contact me at Twitter or Email
 - 📺 ...and if you like to take a look at my [stackoverflow](https://stackoverflow.com/users/9914347/ilija-ilicic) profile
 
 ## Crypto Projects
+- Data Analytics tool for Evmos Ecosystem - available at https://www.evmostracker.ai/
 - Dashboard for DeFi protocol Kanpeki.finance - available at https://www.kanpeki.network/
 - Crosschain Assets Monitoring _In progress, check [CCBT repo](https://github.com/ilijasdev/CCBT)_
 
