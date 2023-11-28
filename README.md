@@ -9,6 +9,9 @@
 - Data Analytics tool for Evmos Ecosystem - available at https://www.evmostracker.ai/
 - Dashboard for DeFi protocol Kanpeki.finance - available at https://www.kanpeki.network/
 - Crosschain Assets Monitoring _In progress, check [CCBT repo](https://github.com/ilijasdev/CCBT)_
+- Frontend Developer (assistant for [Lumin Finance](https://www.lumin.finance), DeFi Lending Protocol)
+- Dune Analytics Dashboard for [Lumin Finance Presale Data](https://dune.com/ilijasdev/lumin-finance-data)
+- Dune Analytics Dashboard for [Elastic Protocol Presale Data](https://dune.com/ilijailicictech/elastic-protocol-info-and-og-sale)
 
 ## Enterprise projects
 in collaboration with [Know IT](https://knowit.hr/)
