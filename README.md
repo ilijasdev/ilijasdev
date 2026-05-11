@@ -2,9 +2,9 @@
 
 Software Developer.
 
+I solve problems.
 I build products.
 I ship.
-I solve problems.
 
 ---
 
